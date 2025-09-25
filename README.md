@@ -5,7 +5,7 @@ It allows users to register, login, deposit, withdraw, and check balance.
 
 #Features
 
-* User Registration: Create a new ATM account with name, account number, password, and initial deposit.
+*User Registration: Create a new ATM account with name, account number, password, and initial deposit.
 
 *Login System: Secure login using account number and password.
 
